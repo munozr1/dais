@@ -1,5 +1,3 @@
-# Add Random Spaces Program
-
 ## Description
 This program processes a text file line by line and randomly adds extra whitespace (0-3 spaces) to the end of each line with a 30% probability. The modified content is saved to an output file. It's a simple utility script for text manipulation.
 
