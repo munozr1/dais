@@ -16,8 +16,8 @@ This program processes a text file line by line and randomly adds extra whitespa
 ### macOS/Linux
 1. **Clone the repository or download the script**:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/munozr1/dais.git
+   cd dais
    ```
    *(If the script is provided directly, save it to your desired location.)*
 
